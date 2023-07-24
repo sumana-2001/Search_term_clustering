@@ -1,0 +1,11 @@
+References 
+-------------------
+Imputation
+
+1)https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/
+2)https://www.researchgate.net/publication/312077825_A_Study_of_Data_Imputation_Using_Fuzzy_C-Means_with_Particle_Swarm_Optimization
+3)https://ieeexplore.ieee.org/document/6724232
+
+Clustering
+1)https://towardsdatascience.com/time-series-clustering-deriving-trends-and-archetypes-from-sequential-data-bb87783312b4#:~:text=Time%20Series%20Clustering%20is%20an,temporal%20clustering%20and%20spatial%20clustering.
+   
