@@ -1,0 +1,29 @@
+1) Collect and analyze the dataset(IMPLEMENTED)
+
+
+2) Perform Data Imputation(perform considering row wise manner)
+	UNIVARIATE APPROACH
+	--> mean, median, mode
+	--> simpleImputer
+	--> Interpolate
+	--> Replace with some random value
+	MULTIVARIATE APPROACH
+	--> KNNImputer, IterativeImputer  (IMPLEMENTED)
+	SWARM OPTIMIZATION
+	-->A_Study_of_Data_Imputation_Using_Fuzzy_C-Means_with_Particle_Swarm_Optimization
+	-->Particle swarm optimization and covariance matrix based data imputation
+
+
+3) Exploratory Data Analysis
+	--> Plot curve for 30 best,worst search terms sorted with maximum frequency comparitively (X : weeks, Y : Search term)                   (IMPLEMENTED)
+	--> Check for the consistent search terms which are not having drastic incline or decline in frequency(they are mostly prefered) 
+	--> box,violin plots to check for outliers
+
+4) Feature Selection using ANOVA (Not Using)
+
+5) Clustering techniques
+	--> Time Series Clustering
+	--> KNN clustering
+
+6) Profiling the clusters
+
