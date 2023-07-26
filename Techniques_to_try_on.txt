@@ -24,6 +24,9 @@
 5) Clustering techniques
 	--> Time Series Clustering
 	--> KNN clustering
-
+	--> Hierachical clustering
+	--> Fuzzy clustering
+	--> DB scan / density based clustering
+	--> partitional Clustering
 6) Profiling the clusters
 
